@@ -1,0 +1,5 @@
+# Simple Recipe to do hot fix
+Checkout to master branch 
+Create new branch from that branch
+Fix the issue in that branch
+Then marge that branch to master
