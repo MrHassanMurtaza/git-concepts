@@ -7,9 +7,8 @@ def subtract(num1, num2):
 def multiply(num1, num2):
   return num1 * num2
 
-
 # Testing it out
-def square(num):
+def triangle(num):
   return num * num
 
 def divide(num1, num2):
