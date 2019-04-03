@@ -2,4 +2,5 @@
 Checkout to master branch 
 Create new branch from that branch
 Fix the issue in that branch
+Then make sure everything is working fine on test server
 Then marge that branch to master
